@@ -2,7 +2,7 @@
 - 👀 I’m interested in  Mobile development(Android), cross platform stack...
 - 🌱 I’m currently learning Flutter and revisiting Javascript.
 - 💞️ I’m looking to collaborate on Flutter, App development...
-- 📫 How to reach me @97.mits@gmail.com
+- 📫 How to reach me (https://twitter.com/amIT_singh29)
 
 <!---
 amIT-nitb/amIT-nitb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
