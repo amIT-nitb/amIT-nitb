@@ -6,6 +6,13 @@
      -  [![Linkedin:](https://img.shields.io/badge/-Amit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amit-singh-nitb/)](https://www.linkedin.com/in/amit-singh-nitb/)
      -  [![Twitter Follow](https://img.shields.io/twitter/follow/amIT_singh29?label=Follow)](https://twitter.com/intent/follow?screen_name=amIT_singh29)
 
+<a href="https://github.com/amIT-nitb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amIT-nitb&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/amIT-nitb">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=amIT-nitb&show_icons=true&theme=light&line_height=27" alt="amIT-nitb's github stats"/>
+</a>
+
 
 <p align="center">
    
