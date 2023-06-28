@@ -7,6 +7,11 @@
      -  [![Twitter Follow](https://img.shields.io/twitter/follow/amIT_singh29?label=Follow)](https://twitter.com/intent/follow?screen_name=amIT_singh29)
 
 
+<p align="center">
+   
+ <img alt = "profile views" src="https://komarev.com/ghpvc/?username=amIT-nitbt&color=brightgreen">    <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/darecoder-git?label=Followers&style=social">  <img src="https://img.shields.io/github/stars/amIT-nitb?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
+
 <!---
 amIT-nitb/amIT-nitb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
